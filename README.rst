@@ -2,10 +2,10 @@
 Como CRIAR uma Lixeira Inteligente com Arduíno
 ###################
 
-Neste vídeo vamos montar um prototipo de uma lixeira que abre e fecha pela aproximação de objetos. Ela pode ser útil em hospitais e para pessoas que tem mobilidade reduzida.
+Neste vídeo vamos montar um protótipo de uma lixeira que abre e fecha pela aproximação de objetos. Ela pode ser útil em hospitais e para pessoas que tem mobilidade reduzida.
 
 *******************
-Link com instruções em vídeo: 
+Link com instruções em vídeo: https://youtu.be/g32x-fCgWKU
 *******************
 
 Lista de Dispositivos:
