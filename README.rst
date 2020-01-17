@@ -19,10 +19,12 @@ Lista de Materiais:
 
 - 1 Balde;
 - 1 Tampa de isopor;
-- Cola quente;
-- Fita banana;
 - 1 Moeda;
 - 1 arruela;
+- Cola quente;
+- Fita banana;
+- Fita Crepe ou Fita Larga;
+- Fio Dental;
 
 
 
